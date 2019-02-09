@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="chapter05" />
         <module name="chapter06" />
+        <module name="chapter08" />
+        <module name="chapter09" />
         <module name="client" />
         <module name="nio-client" />
         <module name="nio-server" />
@@ -20,6 +22,8 @@
       <module name="chapter04" target="1.5" />
       <module name="chapter05" target="8" />
       <module name="chapter06" target="1.5" />
+      <module name="chapter08" target="1.5" />
+      <module name="chapter09" target="1.5" />
       <module name="client" target="1.5" />
       <module name="nio-client" target="1.5" />
       <module name="nio-fftop" target="1.5" />

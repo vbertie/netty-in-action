@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/chapter04/chapter04.iml" filepath="$PROJECT_DIR$/chapter04/chapter04.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter05/chapter05.iml" filepath="$PROJECT_DIR$/chapter05/chapter05.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter06/chapter06.iml" filepath="$PROJECT_DIR$/chapter06/chapter06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08/chapter08.iml" filepath="$PROJECT_DIR$/chapter08/chapter08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/chapter09.iml" filepath="$PROJECT_DIR$/chapter09/chapter09.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter02/client/client.iml" filepath="$PROJECT_DIR$/chapter02/client/client.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-in-action.iml" filepath="$PROJECT_DIR$/netty-in-action.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter04/nio-offtop/nio-client/nio-client.iml" filepath="$PROJECT_DIR$/chapter04/nio-offtop/nio-client/nio-client.iml" />
