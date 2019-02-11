@@ -21,7 +21,6 @@ public class InboundDecoderTest {
         EmbeddedChannel ec = new EmbeddedChannel(
                 new FixedLengthFrameDecoder(8)
         );
-
         //write bytes
         assertTrue(ec.writeInbound(input.retain()));
         assertTrue(ec.finish());
