@@ -1,4 +1,7 @@
-ChatServer.class
 HttpRequestHandler.class
+SecureChatServerInitializer.class
 TextWebSocketFrameHandler.class
 ChatServerInitializer.class
+SecureChatServer$1.class
+ChatServer.class
+SecureChatServer.class

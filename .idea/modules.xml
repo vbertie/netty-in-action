@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/chapter10/chapter10.iml" filepath="$PROJECT_DIR$/chapter10/chapter10.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter11/chapter11.iml" filepath="$PROJECT_DIR$/chapter11/chapter11.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter12/chapter12.iml" filepath="$PROJECT_DIR$/chapter12/chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/chapter13.iml" filepath="$PROJECT_DIR$/chapter13/chapter13.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter02/client/client.iml" filepath="$PROJECT_DIR$/chapter02/client/client.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-in-action.iml" filepath="$PROJECT_DIR$/netty-in-action.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter04/nio-offtop/nio-client/nio-client.iml" filepath="$PROJECT_DIR$/chapter04/nio-offtop/nio-client/nio-client.iml" />

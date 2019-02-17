@@ -14,6 +14,7 @@
         <module name="chapter10" />
         <module name="chapter11" />
         <module name="chapter12" />
+        <module name="chapter13" />
         <module name="client" />
         <module name="nio-client" />
         <module name="nio-server" />
@@ -32,6 +33,7 @@
       <module name="chapter10" target="1.5" />
       <module name="chapter11" target="1.5" />
       <module name="chapter12" target="8" />
+      <module name="chapter13" target="8" />
       <module name="client" target="1.5" />
       <module name="netty-in-action" target="1.5" />
       <module name="nio-client" target="1.5" />

@@ -1,4 +1,6 @@
-/home/bertie/Dokumenty/work/netty-in-action/chapter12/src/main/java/HttpRequestHandler.java
-/home/bertie/Dokumenty/work/netty-in-action/chapter12/src/main/java/TextWebSocketFrameHandler.java
-/home/bertie/Dokumenty/work/netty-in-action/chapter12/src/main/java/ChatServerInitializer.java
-/home/bertie/Dokumenty/work/netty-in-action/chapter12/src/main/java/ChatServer.java
+/home/bartek/Documents/work/netty-in-action/chapter12/src/main/java/HttpRequestHandler.java
+/home/bartek/Documents/work/netty-in-action/chapter12/src/main/java/SecureChatServerInitializer.java
+/home/bartek/Documents/work/netty-in-action/chapter12/src/main/java/SecureChatServer.java
+/home/bartek/Documents/work/netty-in-action/chapter12/src/main/java/ChatServer.java
+/home/bartek/Documents/work/netty-in-action/chapter12/src/main/java/TextWebSocketFrameHandler.java
+/home/bartek/Documents/work/netty-in-action/chapter12/src/main/java/ChatServerInitializer.java
